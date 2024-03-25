@@ -1,0 +1,35 @@
+function skillsMember() {
+  var member = document.getElementById("member");
+  var memberValue = member.options[member.selectedIndex].value;
+  var memberText = member.options[member.selectedIndex].text;
+  var memberSkills = document.getElementById("memberSkills");
+  var memberSkillsValue = memberSkills.value;
+  var memberSkillsText = memberSkills.options[memberSkills.selectedIndex].text;
+  var memberSkillsArray = memberSkillsValue.split(",");
+  var memberSkillsTextArray = memberSkillsText.split(",");
+  var memberSkillsLength = memberSkillsArray.length;
+  var memberSkillsTextLength = memberSkillsTextArray.length;
+  var memberSkillsArrayNew = [];
+  var memberSkillsTextArrayNew = [];
+  var memberSkillsArrayNewLength = memberSkillsArrayNew.length;
+  var memberSkillsTextArrayNewLength = memberSkillsTextArrayNew.length;
+  var memberSkillsArrayNewString = "";
+  var memberSkillsTextArrayNewString = "";
+  var memberSkillsArrayNewStringFinal = "";
+  var memberSkillsTextArrayNewStringFinal = "";
+  var memberSkillsArrayNewStringFinalLength = memberSkillsArrayNewStringFinal.length;
+  var memberSkillsTextArrayNewStringFinalLength = memberSkillsTextArrayNewStringFinal.length;
+  var memberSkillsArrayNewStringFinalLength = memberSkillsArrayNewStringFinal.length;
+  var memberSkillsTextArrayNewStringFinalLength = memberSkillsTextArrayNewStringFinal.length;
+  var memberSkillsArrayNewStringFinalLength = memberSkillsArrayNewStringFinal.length;
+  var memberSkillsTextArrayNewStringFinalLength = memberSkillsTextArrayNewStringFinal.length;
+  var memberSkillsArrayNewStringFinalLength = memberSkillsArrayNewStringFinal.length;
+  var memberSkillsTextArrayNewStringFinalLength = memberSkillsTextArrayNewStringFinal.length;
+  var memberSkillsArrayNewStringFinalLength = memberSkillsArrayNewStringFinal.length;
+  var memberSkillsTextArrayNewStringFinalLength = memberSkillsTextArrayNewStringFinal.length;
+  var memberSkillsArrayNewStringFinalLength = memberSkillsArrayNewStringFinal.length;
+  var memberSkillsTextArrayNewStringFinalLength = memberSkillsTextArrayNewStringFinal.length;
+  var memberSkillsArrayNewStringFinalLength = memberSkillsArrayNewStringFinal.length;
+  var memberSkillsTextArrayNewStringFinalLength = memberSkillsTextArrayNewStringFinal.length;
+  var memberSkillsArrayNewStringFinalLength = memberSkillsArrayNewStringFinal.length;
+  var memberSkillsTextArrayNewStringFinal
